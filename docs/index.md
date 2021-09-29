@@ -1,7 +1,7 @@
-# ReMAP
-ReMAP (Remote Monitoring Application in Psychiatry) is an application for Android and iOS developed and used for psychiatric research purposes at the Institute for Translational Psychiatry, University of Münster. 
+## Overview
 
-## Overview 
+__ReMAP__ (Remote Monitoring Application in Psychiatry) is an application for Android and iOS developed and used for psychiatric research purposes at the Institute for Translational Psychiatry, University of Münster. 
+
 The application provides several questionnaires concerning the user's mental health. Additionally, the app collects location and physical activity data in the background. 
 The individual components are: 
 
