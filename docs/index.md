@@ -6,16 +6,16 @@ The application provides several questionnaires concerning the user's mental hea
 The individual components are: 
 
 #### Active Data - Questionnaires and Tasks
-- a digital version of the Beck Depression Inventory (BDI)  
-- questionnaires concerning the user's mood and sleep quantity
-- a questionnaire enquiring the user's concerns and personal experiences regarding the COVID-19 pandemic
-- a voice recording task asking the user to report on their state of health 
+- Digital version of the Beck Depression Inventory (__BDI__)  
+- Questionnaires concerning the user's __mood__ and __sleep__ quantity
+- Questionnaire enquiring the user's concerns and personal experiences regarding the __COVID-19__ pandemic
+- __Voice recording__ task asking the user to report on their state of health 
 
 #### Passive Data - Background Data Retrieval
-- retrieval of current location  
-- retrieval of acceleration data provided by the device's sensors 
-- retrieval of physical activity data from the user's Google Fit or Apple Health account, such as daily amount of steps and distance covered 
-- scan for nearby bluetooth devices (Android only) 
+- Current __location__ (GPS)
+- __Acceleration__ data provided by the device's sensor 
+- Physical activity from Google Fit or Apple Health, such as __number of steps__ and __distance walked__
+- Scan for nearby __bluetooth__ devices (Android only) 
 
 ## Libraries used 
 #### Android
