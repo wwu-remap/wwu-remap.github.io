@@ -1,22 +1,4 @@
-# ReMAP
-ReMAP (Remote Monitoring Application in Psychiatry) is an application for Android and iOS developed and used for psychiatric research purposes at the Institute for Translational Psychiatry, University of Münster. 
+# Übersicht
+Die Smartphone App ReMAP (Remote Monitoring Application in Psychiatry) ist eine Anwendung für Android und iOS, die für psychiatrische Forschungszwecke am Institut für Translationale Psychiatrie der Universität Münster entwickelt und eingesetzt wird.
 
-## Overview
-The application provides several questionnaires concerning the user's mental health. Additionally, the app collects location and physical activity data in the background. 
-The individual components are: 
-
-#### Active Data - Questionnaires and Tasks
-- Digital version of the Beck Depression Inventory (__BDI__)  
-- Questionnaires concerning the user's __mood__ and __sleep__ quantity
-- Questionnaire enquiring the user's concerns and personal experiences regarding the __COVID-19__ pandemic
-- __Voice recording__ task asking the user to report on their state of health 
-
-#### Passive Data - Background Data Retrieval
-- Current __location__ (GPS)
-- __Acceleration__ data provided by the device's sensor 
-- Physical activity from Google Fit or Apple Health, such as __number of steps__ and __distance walked__
-- Scan for nearby __bluetooth__ devices (Android only) 
-
-## Libraries used 
-#### Android
-The application uses components provided by quickbirdstudios' [SurveyKit](https://github.com/quickbirdstudios/SurveyKit).
+Derzeit erfassen wir zahlreiche Parameter passiv, darunter die Anzahl der Schritte, die zurückgelegte Strecke, die Geolokalisierung (GPS) und die kontinuierliche dreidimensionale Beschleunigung. Darüber hinaus werden wöchentlich aktive Fragebögen durchgeführt, einschließlich der Bewertung von Affektivität, Schlafqualität und depressiven Symptomen mit dem Beck Depression Inventory (BDI). Außerdem erfassen wir wöchentliche Stimmproben, in denen die Teilnehmer gefragt werden, wie es ihnen in den letzten zwei Wochen ergangen ist.
