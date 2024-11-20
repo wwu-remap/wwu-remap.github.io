@@ -14,9 +14,29 @@ Die Teilnahme an dieser Studie ist freiwillig, Sie können zu jeder Zeit und ohn
 
 ### 2. Informationen zur Messung
 
-Alle Messungen im Rahmen der Studie werden ausschließlich mit einer Smartphone-App durchgeführt, die auf Android und iOS Geräten installiert werden kann und für zwei Jahre aktiv bleiben soll. Die App erhebt Daten über Ihr Aktivitätsniveau (Bewegung, Beschleunigung, Position per GPS (Location), Batterieladung und zeitlicher Verlauf, Anzahl und Dauer der Anrufe, Häufigkeit und Dauer der Displayaktivierung). Zusätzlich bitten wir Sie, einmal wöchentlich Auskunft über ihre Stimmung (eine Frage) und Ihr Schlafverhalten (eine Frage) zu geben und eine Sprachnachricht über die App abzugeben, in der Sie in ein bis drei Minuten berichten, wie es Ihnen in der letzten Woche ging. Der Gesamtaufwand liegt, je nach Länge Ihrer Sprachnachricht, also insgesamt bei zwei bis vier Minuten pro Woche. Einmal monatlich bitten wir zusätzlich, einen Fragebogen zur Beurteilung depressiver Symptomatik in der App per multiple-choice auszufüllen (ca. 5-10 Minuten). Die Beantwortung der Fragen oder die Abgabe der Sprachnachricht kann jederzeit abgelehnt werden, ohne dass deshalb die Teilnahme an der Studie insgesamt beendet werden müsste. Nichtsdestotrotz möchten wir Sie bitten, sich die wenigen Minuten pro Woche zu nehmen, um unsere Studie zu unterstützen.
+Alle Messungen im Rahmen der Studie werden ausschließlich mit einer Smartphone-App durchgeführt, die auf Android- und iOS-Geräten installiert werden kann und für zwei Jahre aktiv bleiben soll.
 
-Der Gesamtaufwand für die Teilnahme an der Studie beträgt damit etwa zwischen 15 und 25 Minuten pro Monat.
+**Nutzung von Health Connect (Android) und Apple Health (iOS):**
+- **Android**: Auf Android-Geräten verwendet die App **Health Connect**, um Daten aus anderen Apps sicher und zentral zu erfassen.  
+- **iOS**: Auf iOS-Geräten erfolgt die Datenerhebung über **Apple Health**, sofern Sie uns den Zugriff gewähren.
+
+Die erhobenen Datentypen umfassen:
+- **Distanz**: Zur Analyse Ihrer Aktivität und Bewegung im Alltag.
+- **Schritte und Schrittfrequenz (Steps, StepsCadence)**: Zur Ermittlung Ihres täglichen Aktivitätsniveaus.
+- **Herzfrequenz und Herzfrequenzvariabilität (HeartRate, HeartRateVariability)**: Zur Untersuchung der körperlichen Reaktion auf Alltagsbelastungen.
+- **Ruheherzfrequenz (RestingHeartRate)**: Zur Beurteilung von langfristigem Wohlbefinden und Gesundheitszustand.
+
+Diese Daten helfen uns, die Beziehung zwischen Aktivität und mentalem Wohlbefinden besser zu verstehen. Die Nutzung von Health Connect und Apple Health erfolgt ausschließlich mit Ihrer Zustimmung, und alle Daten werden streng vertraulich und ausschließlich für Forschungszwecke verwendet.
+
+Zusätzlich erheben wir über die App:
+- **Bewegungsdaten**: GPS-Position (Location), Beschleunigungsdaten und Batterieladung, um Bewegungsmuster zu analysieren.
+- **Regelmäßige aktive Daten**: 
+  Je nach Studie bitten wir Sie, regelmäßig Fragebögen auszufüllen. Diese können täglich, wöchentlich oder in größeren Abständen gestellt werden. Der Inhalt der Fragebögen umfasst unter anderem:
+  - Fragen zu Schlafverhalten und Stimmung.
+  - Beurteilungen depressiver Symptomatik (z. B. multiple-choice-Fragen).
+  - Eine kurze Sprachnachricht, in der Sie berichten, wie es Ihnen geht (Dauer: 1-3 Minuten).
+
+Der Gesamtaufwand für die Teilnahme variiert je nach Studie und liegt typischerweise zwischen 15 und 25 Minuten pro Monat.
 
 ### 3. Umgang mit Zufallsbefunden
 
