@@ -1,8 +1,8 @@
 # ReMAP
 
-**Remote Monitoring Application in Psychiatry**
+**Remote Monitoring Application**
 
-Documentation website for ReMAP, a smartphone application (iOS/Android) for continuous assessment of affective symptoms and activity in psychiatric research. Developed at the [Institute for Translational Psychiatry](https://www.medizin.uni-muenster.de/itp/), University of Munster, Germany.
+Documentation website for ReMAP, a smartphone application (iOS/Android) for continuous assessment of affective symptoms and activity in psychiatric research. Developed at the [Institute for Translational Psychiatry](https://www.medizin.uni-muenster.de/itp/), University of Münster, Germany.
 
 Live site: https://wwu-remap.github.io
 

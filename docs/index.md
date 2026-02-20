@@ -1,14 +1,14 @@
 # ReMAP
 
-**Remote Monitoring Application in Psychiatry**
+**Remote Monitoring Application**
 
 !!! note "Zusammenfassung"
 
-    Die Smartphone App ReMAP (Remote Monitoring Application in Psychiatry) ist eine Anwendung für Android und iOS, die für psychiatrische Forschungszwecke am Institut für Translationale Psychiatrie der Universität Münster entwickelt und eingesetzt wird.
+    Die Smartphone App ReMAP (Remote Monitoring Application) ist eine Anwendung für Android und iOS, die für psychiatrische Forschungszwecke am Institut für Translationale Psychiatrie der Universität Münster entwickelt und eingesetzt wird.
 
     Derzeit erfassen wir zahlreiche Parameter passiv, darunter die Anzahl der Schritte, die zurückgelegte Strecke, die Geolokalisierung (GPS) und die kontinuierliche dreidimensionale Beschleunigung. Darüber hinaus werden wöchentlich aktive Fragebögen durchgeführt, einschließlich der Bewertung von Affektivität, Schlafqualität und depressiven Symptomen mit dem Beck Depression Inventory (BDI). Außerdem erfassen wir wöchentliche Stimmproben, in denen die Teilnehmer gefragt werden, wie es ihnen in den letzten zwei Wochen ergangen ist.
 
-ReMAP is a smartphone application for continuous assessment of affective symptoms and activity in psychiatric research. Developed at the [Institute for Translational Psychiatry](https://www.medizin.uni-muenster.de/itp/), University of Munster, Germany, ReMAP combines **active** self-reports with **passive** sensor data to build high-resolution longitudinal profiles of mood, behavior, and daily functioning.
+ReMAP is a smartphone application for continuous assessment of affective symptoms and activity in psychiatric research. Developed at the [Institute for Translational Psychiatry](https://www.medizin.uni-muenster.de/itp/), University of Münster, Germany, ReMAP combines **active** self-reports with **passive** sensor data to build high-resolution longitudinal profiles of mood, behavior, and daily functioning.
 
 The app runs natively on **iOS** and **Android** and serves as an add-on assessment for ongoing longitudinal deep phenotyping studies, complementing neuroimaging, genetics, microbiome data, neuropsychological tests, and clinical interviews.
 
@@ -129,6 +129,6 @@ ReMAP requires access to **Apple HealthKit** (iOS) or **Health Connect** (Androi
 
 ## References
 
-Emden, D., Goltermann, J., Dannlowski, U., Hahn, T., & Opel, N. (2021). Technical feasibility and adherence of the Remote Monitoring Application in Psychiatry (ReMAP) for the assessment of affective symptoms. *Journal of Affective Disorders*, 294, 652--660. [doi:10.1016/j.jad.2021.07.030](https://doi.org/10.1016/j.jad.2021.07.030)
+Emden, D., Goltermann, J., Dannlowski, U., Hahn, T., & Opel, N. (2021). Technical feasibility and adherence of the Remote Monitoring Application (ReMAP) for the assessment of affective symptoms. *Journal of Affective Disorders*, 294, 652--660. [doi:10.1016/j.jad.2021.07.030](https://doi.org/10.1016/j.jad.2021.07.030)
 
-Goltermann, J., Emden, D., Leehr, E.J., Dohm, K., Redlich, R., Dannlowski, U., Hahn, T., & Opel, N. (2021). Smartphone-Based Self-Reports of Depressive Symptoms Using the Remote Monitoring Application in Psychiatry (ReMAP): Interformat Validation Study. *JMIR Mental Health*, 8(1), e24333. [doi:10.2196/24333](https://doi.org/10.2196/24333)
+Goltermann, J., Emden, D., Leehr, E.J., Dohm, K., Redlich, R., Dannlowski, U., Hahn, T., & Opel, N. (2021). Smartphone-Based Self-Reports of Depressive Symptoms Using the Remote Monitoring Application (ReMAP): Interformat Validation Study. *JMIR Mental Health*, 8(1), e24333. [doi:10.2196/24333](https://doi.org/10.2196/24333)
