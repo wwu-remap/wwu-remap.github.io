@@ -2,6 +2,12 @@
 
 **Remote Monitoring Application in Psychiatry**
 
+!!! note "Zusammenfassung"
+
+    Die Smartphone App ReMAP (Remote Monitoring Application in Psychiatry) ist eine Anwendung für Android und iOS, die für psychiatrische Forschungszwecke am Institut für Translationale Psychiatrie der Universität Münster entwickelt und eingesetzt wird.
+
+    Derzeit erfassen wir zahlreiche Parameter passiv, darunter die Anzahl der Schritte, die zurückgelegte Strecke, die Geolokalisierung (GPS) und die kontinuierliche dreidimensionale Beschleunigung. Darüber hinaus werden wöchentlich aktive Fragebögen durchgeführt, einschließlich der Bewertung von Affektivität, Schlafqualität und depressiven Symptomen mit dem Beck Depression Inventory (BDI). Außerdem erfassen wir wöchentliche Stimmproben, in denen die Teilnehmer gefragt werden, wie es ihnen in den letzten zwei Wochen ergangen ist.
+
 ReMAP is a smartphone application for continuous assessment of affective symptoms and activity in psychiatric research. Developed at the [Institute for Translational Psychiatry](https://www.medizin.uni-muenster.de/itp/), University of Munster, Germany, ReMAP combines **active** self-reports with **passive** sensor data to build high-resolution longitudinal profiles of mood, behavior, and daily functioning.
 
 The app runs natively on **iOS** and **Android** and serves as an add-on assessment for ongoing longitudinal deep phenotyping studies, complementing neuroimaging, genetics, microbiome data, neuropsychological tests, and clinical interviews.
@@ -50,7 +56,7 @@ ReMAP collects two complementary streams of data. **Active data** requires parti
 </div>
 <div style="border-left: 3px solid #4caf50; padding-left: 0.8em;">
 <strong>Motion</strong><br>
-<span style="font-size: 0.9em;">Accelerometer (x, y, z), aggregated per 4h</span>
+<span style="font-size: 0.9em;">Accelerometer (x, y, z)</span>
 </div>
 </div>
 </div>
