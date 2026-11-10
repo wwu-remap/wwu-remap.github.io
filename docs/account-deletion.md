@@ -29,11 +29,13 @@ Deinstallieren Sie die App anschließend, damit auch die Daten auf dem Gerät en
 
 ## Was erhalten bleiben kann
 
-[Offen, mit dem Studienteam und dem Datenschutz abzustimmen: ob und wie lange Daten erhalten bleiben, die bereits pseudonymisiert ausgewertet oder veröffentlicht sind, und ob gesetzliche Aufbewahrungspflichten gelten.]
+Gelöscht wird alles, was sich auf Ihre Person bezieht oder Rückschlüsse auf Ihre Person zulässt.
+Daten ohne solchen Bezug bleiben erhalten.
+Daten, die bereits für Auswertungen verarbeitet wurden, lassen sich aus diesen Auswertungen nicht mehr entfernen.
 
 ## Fristen
 
-[Offen: Bearbeitungsfrist; nach der DSGVO in der Regel innerhalb eines Monats.]
+Das Studienteam bearbeitet Ihre Anfrage innerhalb eines Monats.
 Sie erhalten eine Bestätigung, sobald die Löschung abgeschlossen ist.
 
 ## Weitere Informationen
@@ -51,4 +53,6 @@ This page explains how participants of the **ReMAP** app (Remote Monitoring Appl
 
 The study team handles the request.
 It deletes your account, questionnaire and task results, speech recordings, collected sensor data such as location, movement, steps and heart rate, and app usage records.
-[Open: data that may be retained and for how long; processing time.]
+Everything that relates to you or allows conclusions about you is deleted; data without such a link is retained.
+Data already processed for analyses cannot be removed from those analyses.
+The study team handles your request within one month.
