@@ -1,55 +1,122 @@
 # Datenschutzhinweise
 
-## Probanden-Information für ein Forschungsvorhaben  mit Smartphone-basierter Datenerhebung
+Stand: November 2026, gültig ab App-Version 2.3.0.
 
-Sehr geehrte Patientin, sehr geehrter Patient,
+## 1. Verantwortliche Stelle und Kontakt
 
-wir möchten Sie fragen, ob Sie bereit sind, an der o.g. Studie teilzunehmen. In diesem Informationsblatt geben wir Ihnen im Folgenden Hintergrundinformationen zur Studie, beschreiben die geplante Untersuchung, konkretisieren den Umgang mit den erhobenen Daten und nennen abschließend Ausschlusskriterien für die Teilnahme an der Studie. 
+Verantwortlich für die Verarbeitung Ihrer Daten ist die Universität Münster, Institut für Translationale Psychiatrie, Robert-Koch-Str. 41/51, 48149 Münster.
 
-### 1. Informationen zur geplanten Studie:
+Fragen zur Studie, zu Ihren Daten und zur Löschung richten Sie an [remap.app@uni-muenster.de](mailto:remap.app@uni-muenster.de).
+Datenschutzbeauftragter ist Dominik Grotegerd, Institut für Translationale Psychiatrie, Robert-Koch-Str. 41/51, 48149 Münster, [dominik.grotegerd@uni-muenster.de](mailto:dominik.grotegerd@uni-muenster.de).
 
-Affektive Erkrankungen wie etwa Depression gehören zu den häufigsten psychischen Störungen und zu den am weitesten verbreiteten Erkrankungen überhaupt. Obwohl das Erleben und Verhalten im Alltag die Grundlage jeder Prävention, Diagnose und  Therapie affektiver Erkrankungen bildet, existieren bisher nur sehr wenige Studien, die das alltägliche Erleben und Verhalten von gesunden oder erkrankten Menschen systematisch messen. Das Ziel des vorliegenden Projektes ist es daher, das alltägliche Erleben und Verhalten von Menschen über lange Zeiträume anonym, mit Hilfe einer Smartphone-App zu messen. Auf Basis dieser Informationen möchten wir dann beispielsweise Modelle entwickeln, die uns helfen, frühzeitig zu erkennen, wann derzeit symptomfreie Patienten wieder erkranken oder welche Verhaltensmuster Symptomveränderungen vorausgehen und begleiten. Ein sich anschließendes Forschungsziel ist die Übersetzung dieser Einsichten in bessere Präventions-, Diagnose- und Therapieverfahren. 
+Diese Hinweise gelten für die App ReMAP auf iPhone und Android.
+Die Informationen zur Studie stehen in Abschnitt 9; ergänzend gilt die Probandeninformation Ihrer Studie, die Sie vor der Teilnahme erhalten haben.
 
-Die Teilnahme an dieser Studie ist freiwillig, Sie können zu jeder Zeit und ohne Angabe von Gründen Ihre Einwilligung zurückziehen und die App deinstallieren, ohne dass Ihnen daraus Nachteile entstehen. Für die Teilnahme an der Studie zahlen wir Ihnen eine Aufwandsentschädigung von 20 Euro – 10 Euro heute; 10 Euro nach 12-monatiger Teilnahme an der Studie. Die Gesamtlaufzeit der Studie beträgt 24 Monate. 
+## 2. Zweck und Rechtsgrundlage
 
-### 2. Informationen zur Messung
+Wir verarbeiten Ihre Daten ausschließlich für die wissenschaftliche Forschung, nicht für Werbung oder Profilbildung zu kommerziellen Zwecken.
+Ziel ist es, Erleben und Verhalten im Alltag über längere Zeit zu erfassen und besser zu verstehen, zum Beispiel bei affektiven Erkrankungen.
 
-Alle Messungen im Rahmen der Studie werden ausschließlich mit einer Smartphone-App durchgeführt, die auf Android- und iOS-Geräten installiert werden kann und für zwei Jahre aktiv bleiben soll.
+Rechtsgrundlage ist Ihre freiwillige Einwilligung (Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO).
+Gesundheitsdaten gehören zu den besonders geschützten Daten.
 
-**Nutzung von Health Connect (Android) und Apple Health (iOS):**
-- **Android**: Auf Android-Geräten verwendet die App **Health Connect**, um Daten aus anderen Apps sicher und zentral zu erfassen.  
-- **iOS**: Auf iOS-Geräten erfolgt die Datenerhebung über **Apple Health**, sofern Sie uns den Zugriff gewähren.
+ReMAP ist ein Forschungsinstrument und ersetzt keine medizinische Diagnostik oder Behandlung.
+Automatisiert wird in Fragebögen, nicht in Sprachnachrichten, geprüft, ob Antworten auf mögliche Suizidabsichten hinweisen.
+In diesem Fall fordert die App Sie auf, sich Hilfe zu suchen, und die Studienleitung nimmt telefonisch Kontakt zu Ihnen auf.
 
-Die erhobenen Datentypen umfassen:
-- **Distanz**: Zur Analyse Ihrer Aktivität und Bewegung im Alltag.
-- **Schritte und Schrittfrequenz (Steps, StepsCadence)**: Zur Ermittlung Ihres täglichen Aktivitätsniveaus.
-- **Herzfrequenz und Herzfrequenzvariabilität (HeartRate, HeartRateVariability)**: Zur Untersuchung der körperlichen Reaktion auf Alltagsbelastungen.
-- **Ruheherzfrequenz (RestingHeartRate)**: Zur Beurteilung von langfristigem Wohlbefinden und Gesundheitszustand.
+## 3. Welche Daten erhoben werden
 
-Diese Daten helfen uns, die Beziehung zwischen Aktivität und mentalem Wohlbefinden besser zu verstehen. Die Nutzung von Health Connect und Apple Health erfolgt ausschließlich mit Ihrer Zustimmung, und alle Daten werden streng vertraulich und ausschließlich für Forschungszwecke verwendet.
+Welche Daten erhoben werden, hängt von Ihrer Studie und von den Berechtigungen ab, die Sie erteilen.
+Berechtigungen können Sie jederzeit in den Geräteeinstellungen zurücknehmen.
 
-Zusätzlich erheben wir über die App:
-- **Bewegungsdaten**: GPS-Position (Location), Beschleunigungsdaten und Batterieladung, um Bewegungsmuster zu analysieren.
-- **Regelmäßige aktive Daten**: 
-  Je nach Studie bitten wir Sie, regelmäßig Fragebögen auszufüllen. Diese können täglich, wöchentlich oder in größeren Abständen gestellt werden. Der Inhalt der Fragebögen umfasst unter anderem:
-  - Fragen zu Schlafverhalten und Stimmung.
-  - Beurteilungen depressiver Symptomatik (z. B. multiple-choice-Fragen).
-  - Eine kurze Sprachnachricht, in der Sie berichten, wie es Ihnen geht (Dauer: 1-3 Minuten).
+| Bereich | Daten | Umfang |
+| --- | --- | --- |
+| Fragebögen | Ihre Antworten, zum Beispiel zu Stimmung, Schlaf und depressiven Symptomen | alle Studien |
+| Sprachaufnahmen | kurze Aufnahmen, in denen Sie berichten, wie es Ihnen geht | je nach Studie |
+| Standort | GPS-Position, auch im Hintergrund | alle Studien |
+| Bewegung | Daten des Beschleunigungssensors (nur iPhone) | alle Studien |
+| Apple Health und Health Connect | iPhone: Schritte, Distanz, Herzfrequenz, Herzfrequenzvariabilität, Ruhe- und Gehherzfrequenz, Gehgeschwindigkeit, Schrittlänge, Umgebungslautstärke, Stehzeit; Android: Schritte, Distanz, Herzfrequenz, Herzfrequenzvariabilität, Ruheherzfrequenz | nach Ihrer Freigabe |
+| Weitere Sensoren | Schritte und Aktivitätsart, Aufenthaltsorte, Luftdruck, Netzwerkart mit einem nicht rückrechenbaren WLAN-Merkmal, Akku- und Gerätestatus, Bildschirmhelligkeit und Zeitzone, Klingelmodus und „Nicht stören“ oder Fokus, Anzahl von Bluetooth-Geräten in der Nähe ohne Namen oder Adressen, Umgebungslautstärke als Pegelwert ohne Tonaufnahme | je nach Studie |
+| Bildschirm, andere Apps, Schlaf und Licht (nur Android) | wann der Bildschirm an- und ausgeschaltet und entsperrt wurde; wie lange welche anderen Apps je Stunde genutzt wurden, mit den Namen der Apps, aber ohne Inhalte; vom Smartphone erkannte Schlafphasen; Umgebungshelligkeit | je nach Studie |
+| Nutzungsablauf | wann eine Erinnerung ankam und wann Sie eine Aufgabe geöffnet oder beendet haben | alle Studien |
+| App-Nutzung | wann und wie lange die ReMAP-App geöffnet war und ob sie direkt, über eine Benachrichtigung oder über einen Link geöffnet wurde; keine Bildschirminhalte oder Eingaben | alle Studien |
+| Kennungen | Probanden-ID, zufällige Konto-ID, Gerätekennung für Benachrichtigungen, Systemversion | alle Studien |
+| Technische Diagnose | Absturzberichte und Leistungsdaten der App | alle Studien |
+| E-Mail-Adresse | nur wenn Sie Ihren Zugang freiwillig sichern (Abschnitt 6) | optional |
 
-Der Gesamtaufwand für die Teilnahme variiert je nach Studie und liegt typischerweise zwischen 15 und 25 Minuten pro Monat.
+## 4. Speicherort
 
-### 3. Umgang mit Zufallsbefunden
+Ihre Daten werden zuerst auf Ihrem Smartphone gespeichert und bei bestehender Internetverbindung verschlüsselt übertragen, auch über Mobilfunk.
+Gespeichert werden sie auf Servern in Deutschland.
 
-Bei der Studie handelt es sich um eine Forschungsstudie. Eine psychiatrische Befundung der Daten im Sinne einer klinischen Diagnostik findet daher nicht statt. Automatisiert wird allerdings im Fragebogen (nicht bei der Sprachnachricht) geprüft, ob Probanden möglicherweise klinisch relevante Suizid-Absichten äußern. Sollte dies der Fall sein, werden Sie durch die App angehalten, sich professionelle Hilfe zu suchen. Zusätzlich wird sich der Studienleiter telefonisch mit Ihnen in Verbindung setzen und das weitere Vorgehen besprechen. Falls Sie dies nicht wünschen, stellt das ein Ausschlusskriterium für die Teilnahme an der Studie dar. 
+## 5. Pseudonymisierung und Sicherheit
 
-### 4. Datenschutz
+Ihre Studiendaten werden pseudonymisiert verarbeitet, nicht anonym: Sie sind über Ihre Probanden-ID und eine zufällige Konto-ID zugeordnet.
+Namen speichern wir in den Forschungsdaten nicht.
+Die Zuordnung der Probanden-ID zu Ihrer Person ist nur am Studienzentrum in Münster durch die Studienleitung möglich.
 
-Ihre Daten werden zunächst auf Ihrem eigenen Smartphone gespeichert und bei bestehender Internetverbindung (WLAN) an einen nach den strengen gesetzlichen Bestimmungen konfigurierten, TÜV zertifizierten Server auf deutschem Boden weitergeleitet. Wir empfehlen hierfür die Nutzung eines passwortgeschützten WLAN Netzwerks. Die Datenübermittlung geschieht natürlich verschlüsselt, wie Sie es vom Online Banking oder von Nachrichten-Apps kennen (via SSL). Die Weitergabe, Speicherung und Auswertung dieser studienbezogenen Daten erfolgt nach gesetzlichen Bestimmungen ohne Namensnennung und setzt vor Teilnahme an der Studie Ihre freiwillige Einwilligung voraus. Ihre Daten werden für 10 Jahre gespeichert, Zugriff auf die Daten haben die Studienleiter und wissenschaftliche Mitarbeiter der Studie. Die Zuordnung Ihrer Daten zu Ihrer Person ist nur am Studienzentrum in Münster durch den Studienleiter möglich. Ihre Daten sind zu jeder Zeit pseudonymisiert, d.h. alle Arbeiten an Ihren Daten erfolgen ausschließlich über einen Code. Nur der Studienleiter kann diesen Ihrer Person zuordnen. Sollten Sie während der zweijährigen Laufzeit der Studie Ihr Telefon wechseln, müssen Sie die App lediglich neu installieren und ihren anonymen Probandencode nochmals eingeben. Bei Problemen helfen wir Ihnen natürlich jederzeit gern.
+Standortverläufe und Stimme können auch ohne Namen Rückschlüsse auf eine Person erlauben.
+Darum haben nur die Studienleitung und wissenschaftliche Mitarbeitende Zugriff.
 
-Sie können die Löschung ihrer Daten anfordern, indem Sie eine E-Mail an remap.app[at]uni-muenster.de senden.
+Die Übertragung ist verschlüsselt, und der Zugriff ist auf Ihr eigenes Konto beschränkt.
 
-### 5. Ausschlusskriterien
+## 6. Optionale E-Mail-Sicherung und Gerätewechsel
 
-Ausschlusskriterien für die Untersuchung sind akute oder chronische neurologische, internistische oder sonstige Erkrankungen. Probanden, die nicht über mögliche Zufallsbefunde informiert werden wollen, können ebenfalls nicht an der Studie teilnehmen.
+Sie können Ihren Zugang freiwillig mit einer E-Mail-Adresse sichern, um ihn bei einem Smartphonewechsel wiederherzustellen.
+Die Adresse wird mit Ihrem Zugang verknüpft und nicht in Forschungsdatensätzen gespeichert.
+Durch diese Verknüpfung bleibt jedoch ein Personenbezug möglich.
 
-Wenn weitere Fragen bestehen, werden diese gerne vom jeweiligen Untersuchungsleiter beantwortet.
+Nach einer bestätigten Übertragung ist nur noch das neue Smartphone für diesen Zugang aktiv.
+Ohne E-Mail-Sicherung wenden Sie sich vor dem Abmelden am bisherigen Gerät an Ihr Studienteam oder an [remap.app@uni-muenster.de](mailto:remap.app@uni-muenster.de).
+
+## 7. Speicherdauer und Löschung
+
+Ihre Studiendaten werden 10 Jahre gespeichert.
+Noch nicht übertragene Sprachaufnahmen und Sensordaten hält die App bis zu 31 Tage auf Ihrem Smartphone bereit und verwirft sie danach.
+
+Wenn Sie sich in der App abmelden, werden die lokalen Daten auf dem Smartphone, Ihr Anmeldekonto und Ihre Gerätekennung für Benachrichtigungen entfernt.
+Bereits übertragene Studiendaten bleiben dabei erhalten.
+
+Die Löschung Ihres Kontos und Ihrer Studiendaten können Sie in den Einstellungen unter „Konto- und Datenlöschung anfragen“ oder per E-Mail an [remap.app@uni-muenster.de](mailto:remap.app@uni-muenster.de) beantragen.
+Die Anfrage bearbeitet das Studienteam innerhalb eines Monats.
+Gelöscht wird alles, was sich auf Ihre Person bezieht oder Rückschlüsse auf Ihre Person zulässt.
+Daten ohne solchen Bezug bleiben erhalten.
+Daten, die bereits für Auswertungen verarbeitet wurden, lassen sich aus diesen Auswertungen nicht mehr entfernen.
+Den Ablauf beschreibt die Seite [Konto und Daten löschen](account-deletion.md).
+
+## 8. Freiwilligkeit, Widerruf und Ihre Rechte
+
+Die Teilnahme ist freiwillig.
+Sie können Ihre Einwilligung jederzeit ohne Angabe von Gründen widerrufen und die App deinstallieren, ohne dass Ihnen Nachteile entstehen.
+Die bis zum Widerruf erfolgte Verarbeitung bleibt davon unberührt.
+
+Einzelne passive Datenarten können Sie in den Einstellungen abschalten, wenn Ihre Studie das zulässt.
+
+Die Erfassung von Nutzungsablauf und App-Nutzung gehört zur Methodik der Studien und lässt sich nicht einzeln abschalten; sie endet mit Ihrer Abmeldung oder Ihrem Widerruf.
+
+Sie haben nach der DSGVO das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Datenübertragbarkeit.
+
+## 9. Informationen zur Studie
+
+Affektive Erkrankungen wie etwa Depression gehören zu den häufigsten psychischen Störungen und zu den am weitesten verbreiteten Erkrankungen überhaupt.
+Das Erleben und Verhalten im Alltag bildet die Grundlage jeder Prävention, Diagnose und Therapie affektiver Erkrankungen.
+Trotzdem gibt es bisher nur sehr wenige Studien, die das alltägliche Erleben und Verhalten von gesunden oder erkrankten Menschen systematisch messen.
+
+Ziel des Projekts ist es daher, das alltägliche Erleben und Verhalten über lange Zeiträume pseudonymisiert mit einer Smartphone-App zu messen.
+Auf dieser Grundlage möchten wir zum Beispiel Modelle entwickeln, die früh erkennen, wann derzeit symptomfreie Patientinnen und Patienten wieder erkranken oder welche Verhaltensmuster Symptomveränderungen vorausgehen und begleiten.
+Daran schließt sich das Ziel an, diese Einsichten in bessere Präventions-, Diagnose- und Therapieverfahren zu übersetzen.
+
+Alle Messungen der Studie laufen ausschließlich über die Smartphone-App, die auf Android-Geräten und iPhones installiert werden kann und für zwei Jahre aktiv bleiben soll.
+Je nach Studie bitten wir Sie, regelmäßig Fragebögen auszufüllen, täglich, wöchentlich oder in größeren Abständen, und eine kurze Sprachnachricht von ein bis drei Minuten aufzunehmen, in der Sie berichten, wie es Ihnen geht.
+Der Gesamtaufwand hängt von der Studie ab und liegt typischerweise zwischen 15 und 25 Minuten pro Monat.
+
+Für die Teilnahme zahlen wir Ihnen eine Aufwandsentschädigung von 20 Euro: 10 Euro zu Beginn und 10 Euro nach zwölf Monaten Teilnahme.
+Die Gesamtlaufzeit der Studie beträgt 24 Monate.
+
+Eine psychiatrische Befundung der Daten im Sinne einer klinischen Diagnostik findet nicht statt.
+Zum Umgang mit Hinweisen auf Suizidabsichten siehe Abschnitt 2.
+Wenn Sie die dort beschriebene Kontaktaufnahme nicht wünschen, können Sie nicht an der Studie teilnehmen.
+
+Ausschlusskriterien sind akute oder chronische neurologische, internistische oder sonstige Erkrankungen.
+Wer nicht über mögliche Zufallsbefunde informiert werden möchte, kann ebenfalls nicht teilnehmen.
+Weitere Fragen beantwortet gern die jeweilige Untersuchungsleitung.
