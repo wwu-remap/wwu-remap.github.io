@@ -9,6 +9,11 @@ theme:
   features:
     - content.tabs.link
 
+nav:
+  - index.md
+  - privacy-policy.md
+  - account-deletion.md
+
 markdown_extensions:
   - admonition
   - pymdownx.details
