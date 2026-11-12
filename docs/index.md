@@ -130,7 +130,7 @@ Passive data is collected in the background without user interaction. This provi
     Starting with app version 2.3.0, a study can enable further passive data types. What is collected depends on the study and on the permissions granted.
 
     - **Further sensors** -- steps and activity type, places visited, barometric pressure, network type with a non-reversible Wi-Fi identifier, battery and device status, screen brightness and time zone, ringer mode and Do Not Disturb or Focus, the number of nearby Bluetooth devices without names or addresses, and ambient sound level as a level value without any audio recording.
-    - **Android only** -- when the screen was switched on, switched off and unlocked, how long other apps were used per hour (app names, no content), sleep phases detected by the phone, and ambient light.
+    - **Android only** -- when the screen was switched on, switched off and unlocked, how long other apps were used per hour, summarised by app category (no app names, no content), sleep phases detected by the phone, and ambient light.
     - **Use of the app itself** -- when a reminder arrived, when a task was opened or finished, and when and for how long ReMAP was open; no screen contents or input.
 
     The complete list is part of the [privacy notice](privacy-policy.md) (in German).
